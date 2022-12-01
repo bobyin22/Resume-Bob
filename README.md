@@ -4,8 +4,9 @@
 
 CodePen URL: https://codepen.io/bobyin22/pen/zYaLGMV
 GitHub：
+
 網頁說明：
 
 1.熟悉HTML/CSS排版定位
 
-2.使用flex、margin、padding等元素進行版面設計
+2.使用flex、margin、padding等元素進行版面設計與排版
