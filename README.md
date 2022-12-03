@@ -9,4 +9,4 @@ GitHub：
 
 1.熟悉HTML/CSS排版定位
 
-2.使用flex、margin、padding等元素進行版面設計與排版
+2.使用position、flex、margin、padding等元素進行版面設計
