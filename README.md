@@ -2,9 +2,9 @@
 
 網頁預覽：
 
-GitHub：https://bobyin22.github.io/Resume-Bob-New/index.html
-
 CodePen URL: https://codepen.io/bobyin22/pen/zYaLGMV
+
+GitHub：https://bobyin22.github.io/Resume-Bob-New/index.html
 
 
 網頁說明：
